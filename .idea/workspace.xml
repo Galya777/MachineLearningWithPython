@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f107ecb8-bd39-41c2-b3e8-4dc8c09488bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SynteticData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SynteticData.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gguguj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MachineLearningWithPython" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MachineLearningWithPython" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +82,9 @@
       <workItem from="1690546492344" duration="440000" />
       <workItem from="1690904014771" duration="49000" />
       <workItem from="1690904130946" duration="128000" />
+      <workItem from="1690904392927" duration="30000" />
+      <workItem from="1690904447246" duration="46000" />
+      <workItem from="1690904507169" duration="96000" />
     </task>
     <task id="LOCAL-00001" summary="hihih">
       <option name="closed" value="true" />
