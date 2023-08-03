@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f107ecb8-bd39-41c2-b3e8-4dc8c09488bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f107ecb8-bd39-41c2-b3e8-4dc8c09488bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +83,7 @@
       <workItem from="1690904392927" duration="30000" />
       <workItem from="1690904447246" duration="46000" />
       <workItem from="1690904507169" duration="96000" />
+      <workItem from="1690904726968" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="hihih">
       <option name="closed" value="true" />
@@ -102,14 +101,42 @@
       <option name="project" value="LOCAL" />
       <updated>1690546738199</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hihih">
+      <option name="closed" value="true" />
+      <created>1690904774400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690904774400</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hihihuhihnh">
+      <option name="closed" value="true" />
+      <created>1690904835703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690904835703</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hihih" />
-    <option name="LAST_COMMIT_MESSAGE" value="hihih" />
+    <MESSAGE value="hihihuhihnh" />
+    <option name="LAST_COMMIT_MESSAGE" value="hihihuhihnh" />
   </component>
 </project>
